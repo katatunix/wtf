@@ -1,4 +1,3 @@
 Manifest-Version: 1.0
-Class-Path: s2gparsing.jar kommon.jar
 Main-Class: com.nghiabui.wtf.Main
 

@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="kommon" level="project" />
-    <orderEntry type="library" name="s2gparsing" level="project" />
+    <orderEntry type="module" module-name="kommon" />
+    <orderEntry type="module" module-name="s2gparsing" />
   </component>
 </module>

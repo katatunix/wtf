@@ -1,12 +1,10 @@
 <component name="ArtifactManager">
-  <artifact name="wtf:jar">
+  <artifact type="jar" name="wtf:jar">
     <output-path>$PROJECT_DIR$/build</output-path>
-    <root id="root">
-      <element id="archive" name="wtf.jar">
-        <element id="module-output" name="wtf" />
-      </element>
-      <element id="library" level="project" name="s2gparsing" />
-      <element id="library" level="project" name="kommon" />
+    <root id="archive" name="wtf.jar">
+      <element id="module-output" name="wtf" />
+      <element id="module-output" name="kommon" />
+      <element id="module-output" name="s2gparsing" />
     </root>
   </artifact>
 </component>
