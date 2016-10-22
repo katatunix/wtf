@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="s2gparsing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../s2gparsing/build/s2gparsing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
